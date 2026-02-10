@@ -1,1 +1,2 @@
-# password-authentication-python
+As part of my AI internship, today’s assignment focused on implementing a secure password authentication system using Python, which is a fundamental requirement in AI-based and cloud-enabled applications. The goal was to understand how user data can be protected before being used in intelligent systems.
+I designed a Python program that performs user registration and login with strong password validation. The system checks password strength using regular expressions and encrypts user passwords using the SHA-256 hashing algorithm before storage. A login attempt limit was also implemented to improve security by preventing unauthorized access.
